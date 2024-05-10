@@ -1,6 +1,6 @@
 package tic_tac_toe;
 import java.util.*;
-public class game {
+public class Game {
 	 public static void main(String[] args)
 	    {
 	   
